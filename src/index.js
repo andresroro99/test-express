@@ -44,5 +44,5 @@ const cb2 = function (req, res) {
 
 app.get("/example/c", [cb0, cb1, cb2]);
 
-// TODO: Test todo
+// TODO: Test TODO
 // FIXME: Test FIXME
